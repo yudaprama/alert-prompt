@@ -1,0 +1,9 @@
+{
+    "name": "alert-prompt",
+    "version": "0.0.1",
+    "description": "Polyfill for Alert.prompt on both iOS and Android",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yudaprama/alert-prompt"
+    }
+}
